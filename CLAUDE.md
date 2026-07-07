@@ -1,5 +1,10 @@
 # Nolt's Marketplace — Website Proof of Concept
 
+> **⚠️ This site was the first of many. Building a NEW client site, or working
+> on the web business? Read the playbook first:**
+> `C:\Users\flylo\Documents\Website Business\PLAYBOOK-building-client-sites.md`
+> (full pipeline, quality bar, business rules, known pitfalls, site registry).
+
 ## What this project is
 
 A demonstration that a complete, beautiful business website can be built for a
