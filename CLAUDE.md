@@ -56,9 +56,15 @@ tools/gen_image.mjs   Image generator (Node port of fluxandthread workflow)
 - Palette: cream/wheat backgrounds, barn red primary, walnut brown text,
   forest green accent. Serif display headings (hand-crafted feel), humanist
   sans body.
-- Menu prices are **realistic samples** based on third-party listings — this
-  is a demo; the owner supplies real prices later. (Owner's photographed
-  in-store menu may replace them — check assets/ for menu photo.)
+- **Sandwiches, salads & weekly specials use REAL prices** transcribed from
+  the owner-photographed in-store menu (July 2026): sandwiches $4.99–6.99
+  (Roast Beef/Reuben/PA Hometown/Italian $6.99, Turkey Bacon Club $6.49, BLT
+  $6.29, Cajun Turkey/Ham/Chicken Salad/Grilled Cheese $5.99, Veggie Wrap
+  $4.99; +$1.50 salad upgrade), salads all $8.99 (Choicy Chef, Salad Supreme,
+  Chicken Caesar), Wed chicken half & Thu pulled pork $5.99, Fri ribs prices
+  crossed out on their menu → site says "call", Sat wings "prices vary".
+  Bakery/deli-case prices remain representative samples (their menu doesn't
+  cover them).
 
 ## Image generation (Gemini "Nano Banana")
 
