@@ -77,7 +77,10 @@ tools/gen_image.mjs   Image generator (Node port of fluxandthread workflow)
 - **Pamphlet branding pulled into the site** (per Sarah): `--stamp: #d94a3a`
   (the trifold's brighter red), `.stamp-h` chunky all-caps headings
   (Luckiest Guy) on catering menu sections, `.script-tagline` red Caveat
-  script ("making your dreams come true" — from their trifold), and a
+  script ("making your food dreams come true" — exact wording confirmed from
+  the trifold's front panel, "catering front" photo in Drive; front panel
+  also says a separate on-site catering menu exists for weddings/corporate/
+  community events — mentioned in the catering page's helpful-note tip), and a
   `.blessed` band at the bottom of the homepage — **"Have a blessed day!"** —
   because that's how every visit to the store ends.
 - **Catering inquiry form is HIDDEN** (`#inquiry` has `display:none`,
