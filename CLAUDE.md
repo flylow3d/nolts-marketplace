@@ -65,6 +65,17 @@ tools/gen_image.mjs   Image generator (Node port of fluxandthread workflow)
   crossed out on their menu → site says "call", Sat wings "prices vary".
   Bakery/deli-case prices remain representative samples (their menu doesn't
   cover them).
+- **Catering page uses REAL prices** transcribed from Nolt's printed catering
+  trifold (photos from Sarah, July 2026, in Google Drive "Nolts" folder):
+  smoked meats ($8.99–22.99/lb, ribs $22/slab), warm & cold sides by the lb,
+  deli/appetizer/slider/veggie/fruit/wrap trays, boxed lunches $12 (min 15).
+  The old fictional per-person packages were removed.
+- **Pamphlet branding pulled into the site** (per Sarah): `--stamp: #d94a3a`
+  (the trifold's brighter red), `.stamp-h` chunky all-caps headings
+  (Luckiest Guy) on catering menu sections, `.script-tagline` red Caveat
+  script ("making your dreams come true" — from their trifold), and a
+  `.blessed` band at the bottom of the homepage — **"Have a blessed day!"** —
+  because that's how every visit to the store ends.
 
 ## Image generation (Gemini "Nano Banana")
 
