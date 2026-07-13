@@ -99,14 +99,12 @@ header.site {
 }
 /* the real Nolt's logo (black plaque, red varsity letters, wagon wheel) */
 .brand-mark-img {
-  height: 48px;
+  height: 52px;
   width: auto;
   display: block;
-  border-radius: 8px;
 }
 .footer-logo {
-  width: 150px;
-  border-radius: 10px;
+  width: 160px;
   display: block;
   margin-bottom: 0.9rem;
 }
