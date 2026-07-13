@@ -56,15 +56,19 @@ tools/gen_image.mjs   Image generator (Node port of fluxandthread workflow)
 - Palette: cream/wheat backgrounds, barn red primary, walnut brown text,
   forest green accent. Serif display headings (hand-crafted feel), humanist
   sans body.
-- **Sandwiches, salads & weekly specials use REAL prices** transcribed from
-  the owner-photographed in-store menu (July 2026): sandwiches $4.99–6.99
-  (Roast Beef/Reuben/PA Hometown/Italian $6.99, Turkey Bacon Club $6.49, BLT
-  $6.29, Cajun Turkey/Ham/Chicken Salad/Grilled Cheese $5.99, Veggie Wrap
-  $4.99; +$1.50 salad upgrade), salads all $8.99 (Choicy Chef, Salad Supreme,
-  Chicken Caesar), Wed chicken half & Thu pulled pork $5.99, Fri ribs prices
-  crossed out on their menu → site says "call", Sat wings "prices vary".
-  Bakery/deli-case prices remain representative samples (their menu doesn't
-  cover them).
+- **Sandwiches & salads use REAL prices from the hanging in-store menu boards**
+  (photos from Sarah, July 2026, Drive "Nolts" folder — these superseded the
+  older printed menu's $4.99–6.99 prices): Specialty — Reuben/PA Hometown/
+  Italian $8, Smoked Brisket Panini $9, BLT $7, Grilled Cheese $6. Build-your-
+  own — Roast Beef $8, Turkey Bacon Club/Cajun Turkey/Off the Bone Ham $7,
+  Veggie Wrap/Chicken Salad $6; sourdough +$2; side-salad upgrade +$1.50, cup
+  of soup (seasonal) $3.99. Salads all $10. Boards also list breads/wraps/
+  cheeses/toppings/sauces/dressings and 8 side salads — all on menu.html.
+  Slogan from the salad board: "Adding value to your family… one bite at a
+  time!" (script-tagline on menu page). Weekly smoker specials (Wed chicken
+  half & Thu pulled pork $5.99, Fri ribs "call", Sat wings "prices vary")
+  are from the older July 2026 printed menu — no newer data.
+  Bakery/deli-case prices remain representative samples.
 - **Catering page uses REAL prices** transcribed from Nolt's printed catering
   trifold (photos from Sarah, July 2026, in Google Drive "Nolts" folder):
   smoked meats ($8.99–22.99/lb, ribs $22/slab), warm & cold sides by the lb,
@@ -76,6 +80,10 @@ tools/gen_image.mjs   Image generator (Node port of fluxandthread workflow)
   script ("making your dreams come true" — from their trifold), and a
   `.blessed` band at the bottom of the homepage — **"Have a blessed day!"** —
   because that's how every visit to the store ends.
+- **Catering inquiry form is HIDDEN** (`#inquiry` has `display:none`,
+  July 2026): owners haven't asked for web ordering. Code kept in place;
+  catering CTAs point at `tel:` instead. Re-enable only if the Nolts want
+  orders through a form.
 
 ## Image generation (Gemini "Nano Banana")
 
