@@ -97,6 +97,19 @@ header.site {
   /* white core so the N reads over the checks */
   box-shadow: inset 0 0 0 100px rgba(255,253,248,0.82);
 }
+/* the real Nolt's logo (black plaque, red varsity letters, wagon wheel) */
+.brand-mark-img {
+  height: 48px;
+  width: auto;
+  display: block;
+  border-radius: 8px;
+}
+.footer-logo {
+  width: 150px;
+  border-radius: 10px;
+  display: block;
+  margin-bottom: 0.9rem;
+}
 .brand-name {
   font-family: 'Fraunces', serif;
   font-weight: 900;

@@ -83,6 +83,11 @@ tools/gen_image.mjs   Image generator (Node port of fluxandthread workflow)
   community events — mentioned in the catering page's helpful-note tip), and a
   `.blessed` band at the bottom of the homepage — **"Have a blessed day!"** —
   because that's how every visit to the store ends.
+- **REAL logo in use** (`assets/logo-nolts.png`, from owner via Drive "Nolts"
+  folder, July 2026): black plaque, red varsity letters, "EST 2012" /
+  "FAMILY OWNED", wagon wheel. Used in header (`.brand-mark-img`), footer
+  (`.footer-logo`), and favicon (`assets/favicon.png`). Replaced the made-up
+  checkered "N" monogram (CSS `.brand-mark` kept but unused).
 - **Catering inquiry form is HIDDEN** (`#inquiry` has `display:none`,
   July 2026): owners haven't asked for web ordering. Code kept in place;
   catering CTAs point at `tel:` instead. Re-enable only if the Nolts want
